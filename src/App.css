@@ -1,1 +1,15 @@
+.dashboard {
+  text-align: center;
+  margin: 20px;
+}
 
+.section {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
